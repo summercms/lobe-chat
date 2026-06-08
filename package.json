@@ -165,7 +165,7 @@
     "stylelint": "^15",
     "ts-node": "^10",
     "typescript": "^5",
-    "vitest": "0.34.6"
+    "vitest": "3.2.6"
   },
   "publishConfig": {
     "access": "public",
